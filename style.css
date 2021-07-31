@@ -1,0 +1,71 @@
+* {
+  font-family: "Teko", italic;
+  box-sizing: border-box !important;
+  margin: 0;
+}
+
+h1 {
+  margin-left: 39%;
+  color: white;
+  font-size: 70px;
+  margin-top: 5%;
+}
+
+#main-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: bottom 15px;
+}
+
+.main {
+  padding: 20px;
+  border: transparent 1px rgb(255, 255, 255);
+  margin: 30px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px 0;
+  background: linear-gradien (whitesmoke);
+  opacity: 0.7;
+}
+
+.main:hover {
+  box-shadow: 0 0 20px 0 whitesmoke;
+}
+/* pictures styles */
+img {
+  object-fit: contain;
+  margin-top: 10px;
+  object-fit: cover;
+  border-radius: 7px;
+  height: 200px;
+  width: 100%;
+  
+}
+/* title of recipes */
+.title {
+  font-size: 24px;
+  color: black;
+  font-weight: italic;
+}
+/* body tag */
+body {
+  background: rgb(181, 231, 184);
+}
+/* button styles */
+.btn {
+  padding: 10px 25px;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 30px;
+  text-shadow: 1px 1px steelblue;
+  border: transparent;
+  background: linear-gradient(white, rgb(239, 237, 250));
+  box-shadow: 0 0 15px 0;
+}
+/* button hover */
+.btn:hover {
+  box-shadow: 0 0 10px 0 black;
+}

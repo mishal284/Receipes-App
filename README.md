@@ -13,4 +13,4 @@
 ## How to run code in this repo? 
 - To run this app, click live github website link given below.  
 ## Repo Link: https://github.com/mishal284/Receipes-App
-## Live Link: https://rafatfatima-qa.github.io/Recipes-App/
+## Live link: https://mishal284.github.io/Receipes-App/index.html
